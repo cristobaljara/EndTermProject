@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">UkeApp</string>
+  <string name="tabs">Tabs</string>
+  <string name="new_song">New Song</string>
+  <string name="artist">Add Name Artist</string>
+  <string name="title">Add Title Song</string>
+  <string name="song">Add Song</string>
+  <string name="submit">Submit</string>
+</resources>
